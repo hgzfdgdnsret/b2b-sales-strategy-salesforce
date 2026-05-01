@@ -93,7 +93,9 @@ opportunities.loc[
 # -----------------------------
 # EXPORT
 # -----------------------------
-clients.to_csv("airliquide_clients.csv", index=False)
-opportunities.to_csv("airliquide_opportunities.csv", index=False)
+clients.to_csv("data/airliquide_clients.csv", index=False)
+opportunities.to_csv("data/airliquide_opportunities.csv", index=False)
+
+print("Dataset industriel Air Liquide-like généré dans le dossier data/ ✔️")
 
 print("Dataset industriel Air Liquide-like généré ✔️")
