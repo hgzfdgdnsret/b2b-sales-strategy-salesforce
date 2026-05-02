@@ -13,15 +13,16 @@ Ce projet simule un cycle de vente B2B complexe au sein de l'industrie des gaz i
 L'objectif était de démontrer comment un pipeline de données complet — de la génération de données brutes via Python jusqu'à la Business Intelligence dans *Salesforce — permet de piloter une stratégie de croissance réelle.
 
 ---
+## Partie 1 - Opportunités
 
 ## 🛠 Tech Stack
 *   **Data Generation :** Python (Pandas, NumPy) pour créer un dataset cohérent (150 comptes industriels, 1 200+ opportunités).
-*   **ETL & Data Loading :** Dataloader.io pour l'injection massive et le mapping relationnel.
+*   **ETL & Data Loading :** Dataloader.io et Wizard pour l'injection massive et le mapping relationnel.
 *   **CRM & Analytics :** Salesforce (Lightning Experience) pour le stockage et la visualisation décisionnelle.
 
 ---
 
-## 📊 Analyse & Insights (Basé sur le Dashboard)
+## 📊 ## Partie 1 - Analyse & Insights (Basé sur le Dashboard Opportunités)
 
 <img width="1862" height="838" alt="image" src="https://github.com/user-attachments/assets/1ee09d0f-9046-4485-90a5-9eb4de9a29e4" />
 
@@ -45,11 +46,47 @@ Le "Gauge Chart" (jauge) indique que nous approchons des objectifs de volume ave
 
 ---
 
-## 🏁 Conclusion
+## 🏁 Conclusion - Partie 1 
 Ce projet démontre une capacité à :
 1.  Modéliser des données business complexes avec python.
 2.  Maîtriser les outils d'administration et d'intégration Salesforce.
 3.  Transformer des lignes de code en *nsights actionnables pour une direction commerciale.
 
+
+
+## 📊 ## Partie 2 - Analyse & Insights (Basé sur le Dashboard Industries)
+
+## 4. Analyse par industrie
+
+*   Le pipeline global, estimé à environ 263 M€, présente une forte concentration sectorielle. Trois industries dominent largement la distribution des opportunités : Food Processing (82 M€), Chemicals (68 M€) et Automotive (66 M€). À elles seules, ces trois industries représentent plus de 80 % du volume total.
+
+*   Cette concentration traduit une spécialisation commerciale marquée, suggérant une forte maîtrise des cycles de vente et une bonne adéquation entre l’offre et les besoins de ces marchés. En revanche, elle expose également l’activité à un risque de dépendance sectorielle, où toute variation conjoncturelle dans ces industries pourrait impacter significativement la performance globale.
+
+*   Un second groupe d’industries, composé notamment de Electronics (63 M€), Steel (50 M€) et Energy (48 M€), constitue un socle de diversification crédible. Bien que légèrement en retrait, ces secteurs présentent des volumes significatifs et peuvent être considérés comme des relais de croissance stratégiques à moyen terme.
+
+*   À l’inverse, les autres industries apparaissent marginales. Hormis Pharma (38 M€), les volumes sont faibles et peu structurants. Cette dispersion peut indiquer soit une présence opportuniste sur certains marchés, soit un manque de focalisation commerciale. Dans ce contexte, il devient pertinent d’évaluer la rentabilité réelle de ces segments et d’arbitrer entre standardisation des approches ou désengagement partiel.
+
+## 5. Insights stratégiques
+
+*   La structure actuelle du pipeline met en évidence une dépendance forte à un nombre restreint d’industries. Cette concentration constitue à la fois une force, en termes d’expertise et d’efficacité commerciale, et une vulnérabilité en cas de retournement de marché.
+
+*   Le secteur Food Processing se distingue comme principal moteur de croissance. Son poids dans le pipeline suggère une dynamique commerciale favorable, probablement liée à une forte demande et à un positionnement produit pertinent.
+
+*   Les secteurs Chemicals et Automotive, également très représentés, traduisent une présence solide sur des marchés industriels matures. Ces environnements impliquent généralement des cycles de vente plus complexes et nécessitent une forte expertise technique, mais offrent en contrepartie des opportunités de grande valeur.
+
+*   Le secteur Electronics, dont le volume est proche de celui des leaders, apparaît comme un levier de développement prioritaire. Une intensification des efforts commerciaux sur ce segment pourrait permettre de rééquilibrer la distribution du pipeline tout en soutenant la croissance.
+
+*   Enfin, la présence de nombreuses industries à faible contribution pose la question de l’allocation des ressources commerciales. Une stratégie plus sélective permettrait d’optimiser le retour sur investissement et de renforcer l’impact global des actions commerciales.
+
+## 6. Conclusion
+
+Le portefeuille d’opportunités repose principalement sur trois industries clés, qui structurent la performance actuelle. Les secteurs secondaires offrent des perspectives de diversification intéressantes, tandis que les segments marginaux nécessitent une rationalisation stratégique. L’enjeu principal consiste à consolider les positions acquises tout en développant de nouveaux relais de croissance afin de limiter la dépendance sectorielle.
+
+<img width="1200" height="472" alt="image" src="https://github.com/user-attachments/assets/e168d7aa-cb94-4dc5-b947-15911e1a6460" />
+<img width="1812" height="465" alt="image" src="https://github.com/user-attachments/assets/a2900a19-acd7-49d5-a094-93c875bc923c" />
+
+
 ---
+
+
 *Projet réalisé par Marin Boulard - 2026*
