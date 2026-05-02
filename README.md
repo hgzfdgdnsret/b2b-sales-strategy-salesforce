@@ -56,6 +56,8 @@ Ce projet démontre une capacité à :
 
 ## 📊 ## Partie 2 - Analyse & Insights (Basé sur le Dashboard Industries)
 
+<img width="1812" height="465" alt="image" src="https://github.com/user-attachments/assets/a2900a19-acd7-49d5-a094-93c875bc923c" />
+
 ## 4. Analyse par industrie
 
 *   Le pipeline global, estimé à environ 263 M€, présente une forte concentration sectorielle. Trois industries dominent largement la distribution des opportunités : Food Processing (82 M€), Chemicals (68 M€) et Automotive (66 M€). À elles seules, ces trois industries représentent plus de 80 % du volume total.
@@ -83,7 +85,6 @@ Ce projet démontre une capacité à :
 Le portefeuille d’opportunités repose principalement sur trois industries clés, qui structurent la performance actuelle. Les secteurs secondaires offrent des perspectives de diversification intéressantes, tandis que les segments marginaux nécessitent une rationalisation stratégique. L’enjeu principal consiste à consolider les positions acquises tout en développant de nouveaux relais de croissance afin de limiter la dépendance sectorielle.
 
 <img width="1200" height="472" alt="image" src="https://github.com/user-attachments/assets/e168d7aa-cb94-4dc5-b947-15911e1a6460" />
-<img width="1812" height="465" alt="image" src="https://github.com/user-attachments/assets/a2900a19-acd7-49d5-a094-93c875bc923c" />
 
 
 ---
