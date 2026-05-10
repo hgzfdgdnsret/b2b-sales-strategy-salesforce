@@ -1,0 +1,151 @@
+Client_ID,Industry,Country,Contract_Type
+ALC_0001,Food Processing,Spain,Long-Term
+ALC_0002,Chemicals,Italy,Long-Term
+ALC_0003,Energy,Italy,Long-Term
+ALC_0004,Food Processing,France,Spot
+ALC_0005,Pharma,Italy,Spot
+ALC_0006,Energy,Belgium,Long-Term
+ALC_0007,Energy,Italy,Spot
+ALC_0008,Food Processing,France,Long-Term
+ALC_0009,Automotive,Belgium,Long-Term
+ALC_0010,Pharma,Germany,Spot
+ALC_0011,Food Processing,Italy,Spot
+ALC_0012,Pharma,France,Framework Agreement
+ALC_0013,Pharma,Germany,Spot
+ALC_0014,Energy,Germany,Long-Term
+ALC_0015,Chemicals,Spain,Long-Term
+ALC_0016,Pharma,Belgium,Long-Term
+ALC_0017,Electronics,Italy,Long-Term
+ALC_0018,Energy,France,Long-Term
+ALC_0019,Automotive,Spain,Framework Agreement
+ALC_0020,Chemicals,Belgium,Long-Term
+ALC_0021,Electronics,Spain,Framework Agreement
+ALC_0022,Electronics,Belgium,Spot
+ALC_0023,Automotive,Belgium,Spot
+ALC_0024,Chemicals,Italy,Long-Term
+ALC_0025,Energy,Belgium,Long-Term
+ALC_0026,Steel,Spain,Long-Term
+ALC_0027,Chemicals,Belgium,Long-Term
+ALC_0028,Automotive,Italy,Spot
+ALC_0029,Electronics,Italy,Long-Term
+ALC_0030,Energy,Spain,Long-Term
+ALC_0031,Chemicals,Germany,Spot
+ALC_0032,Steel,Germany,Long-Term
+ALC_0033,Steel,Belgium,Framework Agreement
+ALC_0034,Pharma,France,Framework Agreement
+ALC_0035,Pharma,Belgium,Framework Agreement
+ALC_0036,Food Processing,Spain,Long-Term
+ALC_0037,Automotive,Spain,Long-Term
+ALC_0038,Chemicals,Spain,Framework Agreement
+ALC_0039,Chemicals,Spain,Long-Term
+ALC_0040,Food Processing,Spain,Framework Agreement
+ALC_0041,Electronics,Italy,Framework Agreement
+ALC_0042,Electronics,Germany,Framework Agreement
+ALC_0043,Food Processing,Spain,Long-Term
+ALC_0044,Electronics,France,Long-Term
+ALC_0045,Pharma,France,Framework Agreement
+ALC_0046,Chemicals,France,Long-Term
+ALC_0047,Food Processing,France,Long-Term
+ALC_0048,Chemicals,Italy,Long-Term
+ALC_0049,Steel,France,Framework Agreement
+ALC_0050,Pharma,Spain,Spot
+ALC_0051,Energy,Belgium,Long-Term
+ALC_0052,Pharma,France,Long-Term
+ALC_0053,Food Processing,Italy,Spot
+ALC_0054,Energy,Italy,Framework Agreement
+ALC_0055,Steel,France,Long-Term
+ALC_0056,Food Processing,Belgium,Long-Term
+ALC_0057,Automotive,France,Framework Agreement
+ALC_0058,Chemicals,Italy,Spot
+ALC_0059,Steel,Germany,Spot
+ALC_0060,Chemicals,Spain,Spot
+ALC_0061,Electronics,Italy,Long-Term
+ALC_0062,Automotive,France,Long-Term
+ALC_0063,Automotive,Spain,Framework Agreement
+ALC_0064,Steel,France,Framework Agreement
+ALC_0065,Automotive,France,Framework Agreement
+ALC_0066,Energy,Germany,Framework Agreement
+ALC_0067,Automotive,Spain,Long-Term
+ALC_0068,Chemicals,Spain,Long-Term
+ALC_0069,Chemicals,Germany,Spot
+ALC_0070,Food Processing,Italy,Spot
+ALC_0071,Chemicals,France,Spot
+ALC_0072,Food Processing,Belgium,Spot
+ALC_0073,Chemicals,France,Framework Agreement
+ALC_0074,Energy,France,Long-Term
+ALC_0075,Food Processing,Italy,Long-Term
+ALC_0076,Pharma,France,Long-Term
+ALC_0077,Electronics,Germany,Long-Term
+ALC_0078,Steel,Germany,Long-Term
+ALC_0079,Chemicals,Spain,Long-Term
+ALC_0080,Automotive,Belgium,Long-Term
+ALC_0081,Chemicals,France,Long-Term
+ALC_0082,Automotive,France,Long-Term
+ALC_0083,Electronics,Italy,Long-Term
+ALC_0084,Electronics,Germany,Long-Term
+ALC_0085,Electronics,Belgium,Framework Agreement
+ALC_0086,Automotive,Spain,Long-Term
+ALC_0087,Chemicals,Germany,Long-Term
+ALC_0088,Electronics,Spain,Long-Term
+ALC_0089,Energy,Italy,Spot
+ALC_0090,Food Processing,Italy,Long-Term
+ALC_0091,Automotive,France,Spot
+ALC_0092,Automotive,Belgium,Long-Term
+ALC_0093,Chemicals,Spain,Long-Term
+ALC_0094,Automotive,Germany,Long-Term
+ALC_0095,Automotive,Italy,Long-Term
+ALC_0096,Electronics,France,Spot
+ALC_0097,Chemicals,France,Spot
+ALC_0098,Electronics,Spain,Framework Agreement
+ALC_0099,Food Processing,Italy,Long-Term
+ALC_0100,Food Processing,Belgium,Long-Term
+ALC_0101,Electronics,Italy,Spot
+ALC_0102,Food Processing,Spain,Long-Term
+ALC_0103,Chemicals,Spain,Long-Term
+ALC_0104,Steel,Italy,Long-Term
+ALC_0105,Electronics,Spain,Long-Term
+ALC_0106,Energy,Italy,Framework Agreement
+ALC_0107,Energy,Germany,Framework Agreement
+ALC_0108,Automotive,Italy,Spot
+ALC_0109,Food Processing,Italy,Long-Term
+ALC_0110,Energy,Spain,Long-Term
+ALC_0111,Automotive,Spain,Long-Term
+ALC_0112,Steel,France,Long-Term
+ALC_0113,Chemicals,France,Long-Term
+ALC_0114,Chemicals,Germany,Spot
+ALC_0115,Chemicals,France,Spot
+ALC_0116,Energy,Italy,Long-Term
+ALC_0117,Steel,Spain,Framework Agreement
+ALC_0118,Energy,France,Spot
+ALC_0119,Food Processing,France,Long-Term
+ALC_0120,Energy,Germany,Spot
+ALC_0121,Steel,Germany,Long-Term
+ALC_0122,Steel,Italy,Long-Term
+ALC_0123,Food Processing,Spain,Long-Term
+ALC_0124,Steel,Germany,Spot
+ALC_0125,Steel,France,Long-Term
+ALC_0126,Chemicals,Spain,Long-Term
+ALC_0127,Food Processing,Spain,Long-Term
+ALC_0128,Pharma,France,Long-Term
+ALC_0129,Pharma,Germany,Framework Agreement
+ALC_0130,Steel,France,Spot
+ALC_0131,Pharma,Spain,Long-Term
+ALC_0132,Pharma,Belgium,Long-Term
+ALC_0133,Steel,Belgium,Long-Term
+ALC_0134,Pharma,Italy,Long-Term
+ALC_0135,Energy,France,Long-Term
+ALC_0136,Automotive,France,Long-Term
+ALC_0137,Food Processing,Italy,Long-Term
+ALC_0138,Automotive,Italy,Spot
+ALC_0139,Steel,Italy,Spot
+ALC_0140,Chemicals,Spain,Long-Term
+ALC_0141,Food Processing,France,Long-Term
+ALC_0142,Steel,Spain,Spot
+ALC_0143,Chemicals,Italy,Long-Term
+ALC_0144,Automotive,France,Framework Agreement
+ALC_0145,Steel,Spain,Spot
+ALC_0146,Food Processing,Spain,Long-Term
+ALC_0147,Food Processing,Italy,Long-Term
+ALC_0148,Electronics,France,Spot
+ALC_0149,Energy,Italy,Long-Term
+ALC_0150,Pharma,France,Long-Term
